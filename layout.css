@@ -1,0 +1,60 @@
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: #304E4E;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    margin-left: 2rem; margin-top: 1rem;
+}
+
+h1{ 
+    font-size: 3.2rem; margin-block-end: 1rem ; color: #DDB78A;
+}
+h2{ 
+    font-size: 3rem; margin-bottom: 1rem ; color: #30DF35; 
+}
+h3{ 
+    font-size: 2.8rem; margin-bottom: 1rem ; color: #FFFFFF; 
+}
+h4{ 
+    font-size: 2.6rem; margin-bottom: 1rem ; color: #FFFFFF; 
+}
+h5{ 
+    font-size: 2.4rem; margin-bottom: 1rem ; color: #FFFFFF; 
+}
+h6{ 
+    font-size: 2.2rem; margin-bottom: 1rem ; color: #FFFFFF; 
+}
+
+p{
+    font-size: 2rem; margin-bottom: 1rem ; color: #FFFFFF;
+}
+.strong{
+    color: #07F3F3; font-weight: bold;
+}
+.emphasized{
+    font-style: italic;
+}
+.marked{
+    color: black; background-color: yellow; font-weight: bold;
+}
+.small{
+    color: red; font-size: 1rem;
+}
+.overlined{
+    text-decoration: overline;
+}
+.underlined{
+
+}
+.subscript{
+
+}
+.superscript{
+
+}
